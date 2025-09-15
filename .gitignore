@@ -1,0 +1,7 @@
+__pycache__/
+imgs/
+visualizations/
+data/coco_val_2017/
+outputs/
+*.ipynb
+*.sh

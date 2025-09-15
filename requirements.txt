@@ -1,0 +1,28 @@
+--extra-index-url https://pypi.org/simple
+
+diffusers==0.34.0
+transformers==4.55.2
+accelerate==1.10.0
+safetensors==0.6.2
+huggingface-hub==0.34.4
+einops==0.8.1
+Pillow==11.3.0
+tqdm==4.67.1
+ftfy==6.3.1
+regex==2025.7.34
+scipy==1.16.1
+sentencepiece==0.2.1
+tokenizers==0.21.4
+timm==0.6.13
+numpy==2.3.2
+requests==2.32.4
+sympy==1.13.1
+typing_extensions==4.14.1
+torchmetrics==1.8.1
+clip @ https://github.com/openai/CLIP/archive/refs/heads/main.zip#sha256=11c3593912e6e6446fb0bde144c5ea374f7e19eeab9072c3eb00b59dd8afb706
+image-reward==1.5
+torchmetrics[image]==1.8.1
+torch-fidelity==0.3.0
+scikit-learn==1.5.2
+protobuf==5.28.3
+matplotlib==3.9.2
